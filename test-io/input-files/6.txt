@@ -1,0 +1,31 @@
+29
+insert "Eman Fgre" 72354678
+insert "Eman Fgre" 82341278
+insert "Eman Fgre" 32765678
+insert "Eman Fgre" 12235678
+insert "Eman Fgre" 72985678
+insert "Eman Fgre" 32095678
+insert "Eman Fgre" 92345678
+insert "Eman Fgre" 42345678
+insert "Eman Fgre" 42312678
+insert "Eman Fgre" 92345643
+insert "Eman Fgre" 72344378
+insert "Eman Fgre" 82345678
+insert "Eman Fgre" 19845678
+insert "Eman Fgre" 12345678
+insert "Eman Fgre" 62634567
+insert "Eman Fgre" 12343456
+insert "Eman Fgre" 52345678
+insert "Eman Fgre" 02346342
+insert "Eman Fgre" 02634678
+insert "Eman Fgre" 82345678
+insert "Eman Fgre" 54345678
+insert "Eman Fgre" 92345678
+insert "Eman Fgre" 73234657
+insert "Eman Fgre" 62345676
+insert "Eman Fgre" 52345234
+insert "Eman Fgre" 42345875
+insert "Eman Fgre" 32345234
+insert "Eman Fgre" 22345765
+printLevelCount
+
